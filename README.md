@@ -16,13 +16,13 @@ Yollor é uma biblioteca Python que oferece uma maneira simples de trabalhar com
 
 ## Exemplos de Uso
 ```python
-from Yollor import c
+from yollor import c
 
 text = f"{c.blue('Texto em azul!')}"
 print(text)
 ```
 ```python
-from Yollor import c
+from yollor import c
 
 print(c.blue('Esta é uma mensagem em azul!'))
 ```
