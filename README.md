@@ -38,6 +38,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou e
 ## Versão
 
 Esta é a versão 1.0.0 da biblioteca.
-
-```
-
