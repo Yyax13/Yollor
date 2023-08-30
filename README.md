@@ -1,6 +1,6 @@
 # Yollor
 
-[![Python](https://img.shields.io/badge/Python-3.6%2B-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-CC0%201.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)](https://github.com/seu-usuario/sua-biblioteca/releases/tag/v1.0.0)
 
