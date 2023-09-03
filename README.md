@@ -27,6 +27,7 @@ Para instalar a biblioteca, baixe o arquivo yollor.py no [Repo Oficial](https://
 - ciano `c.cyan`
 - cinza `c.gray`
 - amarelo `c.yellow`
+
 ### Tags
 Para usar tags, faça:
 `t.tag_cor`
