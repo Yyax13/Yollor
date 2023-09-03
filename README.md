@@ -13,8 +13,7 @@ Yollor é uma biblioteca Python que oferece uma maneira simples de trabalhar com
 
 ## Instalação
 
-Para instalar a biblioteca, baixe o arquivo yollor.py no [Repo Oficial](https://github.com/Yyax13/Yollor) e inclua o arquivo em seu projeto
-> futuramente irei incluir a biblioteca no pypi (pip)
+`pip install yollor`
 
 ## Features
 
