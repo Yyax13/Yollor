@@ -17,6 +17,7 @@ Para instalar a biblioteca, baixe o arquivo yollor.py no [Repo Oficial](https://
 > futuramente irei incluir a biblioteca no pypi (pip)
 
 ## Features
+
 ### Cores
 - preto `c.black`
 - vermelho `c.red`
@@ -30,7 +31,9 @@ Para instalar a biblioteca, baixe o arquivo yollor.py no [Repo Oficial](https://
 
 ### Tags
 Para usar tags, faça:
+
 `t.tag_cor`
+
 certifique-se de subistituir "tag" por uma dessas opçoes:
 - tagn1
 - tagn2
@@ -46,7 +49,9 @@ certifique-se de subistituir "tag" por uma dessas opçoes:
 - quest
 - more
 - hashtag
+- 
 e "cor" por:
+
 - black
 - red
 - green
