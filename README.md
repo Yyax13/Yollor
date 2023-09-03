@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-CC0%201.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)](https://github.com/seu-usuario/sua-biblioteca/releases/tag/v1.0.0)
-[![Creator](https://img.shields.io/badge/Criador-Yyax13-purple.svg)](https://github.com/Yyax13)
+[![Version](https://img.shields.io/badge/Criador-Yyax13-purple.svg)](https://github.com/Yyax13)
 
 Uma biblioteca Python para facilitar o uso de cores e sinais em seus projetos.
 
